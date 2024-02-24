@@ -1,5 +1,5 @@
 {
-  "name": "otp-input",
+  "name": "@rashidpathiyil/otp-input",
   "version": "1.0.0",
   "description": "A JavaScript library for handling OTP inputs.",
   "main": "lib/OTP.js",
